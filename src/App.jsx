@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes ,Navigate} from "react-router-dom";
-import './Reponsive.css'
+import './assets/Responsive.css';
 import Home from "./pages/Home";
 import Services from "./pages/Services";
 // import CustomCursor from "./components/CustomCursor";
